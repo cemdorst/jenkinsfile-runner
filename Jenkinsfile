@@ -3,6 +3,7 @@ properties([[$class: 'BuildDiscarderProperty',
                 strategy: [$class: 'LogRotator', numToKeepStr: '10']]])
 
 // TODO: Move it to Jenkins Pipeline Library
+// Test
 
 def branchName = currentBuild.projectName
 def buildNumber = currentBuild.number
