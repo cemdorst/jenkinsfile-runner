@@ -63,10 +63,10 @@ THE SOFTWARE.
   <properties>
     <revision>1.0-beta-33</revision>
     <changelist>-SNAPSHOT</changelist>
-    <gitHubRepo>jenkinsci/jenkinsfile-runner</gitHubRepo>
+    <gitHubRepo>cemdorst/jenkinsfile-runner</gitHubRepo>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.level>11</java.level>
-    <jenkins.version>2.375.4</jenkins.version>
+    <jenkins.version>2.361.4</jenkins.version>
     <jenkins.bom.baseline>bom-2.375.x</jenkins.bom.baseline>
     <jenkins.bom.version>2025.v816d28f1e04f</jenkins.bom.version>
     <jetty.version>10.0.12</jetty.version>
