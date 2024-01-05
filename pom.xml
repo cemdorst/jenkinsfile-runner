@@ -63,7 +63,7 @@ THE SOFTWARE.
   <properties>
     <revision>1.0-beta-33</revision>
     <changelist>-SNAPSHOT</changelist>
-    <gitHubRepo>cemdorst/jenkinsfile-runner</gitHubRepo>
+    <gitHubRepo>jenkinsci/jenkinsfile-runner</gitHubRepo>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.level>11</java.level>
     <jenkins.version>2.361.4</jenkins.version>
